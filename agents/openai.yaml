@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Qbank Builder"
+  short_description: "构建事实受控的求职面试题库与口语化自我介绍。"
+  default_prompt: "基于候选人真实背景、目标岗位 JD 与知识库链接（前置必须问清三要素），构建口语化、三段论结构的 20~30 题面试题库与一分钟自我介绍。"
